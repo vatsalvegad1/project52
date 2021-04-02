@@ -1,0 +1,102 @@
+.head{
+      
+    background-color:white;
+    border:solid;
+
+     }
+  
+     .note{
+       background-color: red;
+       border: dotted;
+     }
+  
+  .grid {
+    background: darkred;
+    background-color: #F0F8FF;
+    display: flex;
+    text-align: left;
+    font-style: initial;
+    align-self: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ }
+  
+  
+  .camel {
+    border: solid black;
+    background-color:#E8E5E4;
+    
+  }
+  
+  
+  .chameleon {
+    border: solid black;
+    background-color:#E8E5E4;
+    
+  }
+  
+  .cicada {
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+  
+  .panda {
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+  
+  .pigeon {
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+  
+  .teddy {
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+
+  .youtube{
+    border: solid black;
+    background-color:#E8E5E4;
+  }
+
+  .instagram{
+    border:solid black;
+    background-color:#E8E5E4;
+  }
+  *{
+    font-style: oblique;
+  }
+  .body{
+    background-color: blue;
+  }
+  a:link{
+    color: white;
+  }
+  a:visited{
+    color: violet;
+  }
+  .img1:hover{
+    opacity: 0.2;
+  }
+  .img2:hover{
+    opacity: 0.2;
+  }
+  .img3:hover{
+    opacity: 0.2;
+  }
+  .img4:hover{
+    opacity: 0.2;
+  }
+  .img5:hover{
+    opacity: 0.2;
+  }
+  .img6:hover{
+    opacity: 0.2;
+  }
+  .img7:hover{
+    opacity: 0.2;
+  }
+  .img8:hover{
+    opacity: 0.2;
+  }
